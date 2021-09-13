@@ -41,7 +41,7 @@ Bangkok | | yes | yes | no
 - Forecast models for 3 separate subtypes and 3 subtypes altogether ~ climate (as independent variables)
 - Time series analysis:
   - Univariate: future influenza = linear(past influenza) (???)
-  - Multivariate: future influenza = linear(past influenza + climate)
+  - Multivariate: future influenza = linear(past influenza + climate); Joe: this shall be "multivariable".
   - Autoregressive Integrated Moving-Average model: predict based on past data, trend = mean + noise
 
 ### Results
@@ -51,6 +51,8 @@ temperature | lowest | | | highest | highest | | | | | | | |
 rel humidity * | lowest | | | | | | | | highest | highest | | 
 rainfall | | | | | | | | | highest |  | | 
 influenza | | | | | | | | | H3N2 | H3N2 | | 
+
+Comment: shouldn't relative humidity be included in all forecast models (Table S3)? Maciek: why not step-wise regression?
 
 - GLM results:
   - First peak: Feb; hot, dry H1N1, B
