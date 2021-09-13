@@ -1,6 +1,8 @@
 # Modeling the dynamics of *Plasmodium falciparum* gametocytes in humans during malaria infection
 Cao, P., Collins, K. A., Zaloumis, S., Wattanakul, T., Tarning, J., Simpson, J. A., McCarthy, J. & McCaw, J. M., 2019 *eLife*
 
+[DOI](https://doi.org/10.7554/eLife.49058) [PDF](https://elifesciences.org/articles/49058#downloads)
+
 ## Main points
 Methods:
 * improved asexual parasitemia measurement from Saralamba 2011 PNAS?
